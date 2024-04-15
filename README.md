@@ -13,6 +13,6 @@ Everyone can be a designer
 
 
 
-# 祝（Expect）
-期望各位有志之士，一起参与改变，这该死的世界。  
-I hope all ambitious people can participate in change together, this damn world.
+# Expect
+期望各位有志之士，一起参与改变。  
+I hope all ambitious people can participate in change together.
