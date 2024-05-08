@@ -20,6 +20,4 @@ Everyone can be a designer
 
 
 
-# Expect
-期望各位有志之士，一起参与改变。  
-I hope all ambitious people can participate in change together.
+# Expect 
